@@ -22,8 +22,8 @@
 // Umbral de temperatura
 float thresholdTemp = 30.0; // Cambia este valor según tus necesidades
 
-char ssid[] = "Galaxy S24 Ultra";
-char pass[] = "danielcharria123";
+char ssid[] = "Tu RED";
+char pass[] = "Contraseña de tu red";
 // Inicializamos el sensor DHT
 DHT dht(DHTPIN, DHTTYPE);
 
